@@ -1400,6 +1400,14 @@ https://a39aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/i2pc
 
 
 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/Peacock-PL.png" group-title="Sport",Peacock Premier League
+https://fsly.stream.peacocktv.com/Content/CMAF_CTR-4s/Live/channel(vc1021n07j)/master.mpd
+
+
+#EXTINF:-1 tvg-id="PREMIERFOOTBALL.ph" tvg-name="PREMIERFOOTBALL" tvg-logo="https://warningfm.github.io/v3/img/QHMhnIC.png?v=1.1.1.1" group-title="Sports", Premier Football HD
+http://143.44.136.110:6910/001/2/ch00000090990000001127/manifest.mpd?virtualDomain=001.live_hls.zte.com
+
+
 
 #EXTINF:-1 tvg-country="" tvg-logo="" group-title="SPORT",Hub Premier 1 FHD
 http://vocotv.pro:80/tatum/tatum/288375
