@@ -93,7 +93,7 @@ https://halu.serv00.net/satu.mpd?id=8120
 #EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/QEzhky9Io4g9RlJF25aDUzNQUg0=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/8121/rock-action-3cc936.jpg" group-title="TV VIDIO",ROCK ACTION
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
 #KODIPROP:inputstream.adaptive.license_key=https://sweet-night-1d1d.worst.workers.dev/?id=8121&type=drm
 https://halu.serv00.net/satu.mpd?id=8121
 
@@ -757,6 +757,68 @@ http://b1g.uk:80/200/230/625421
 http://b1g.uk:80/200/230/625420
 
 
+
+================== ASTRO SPORT =======================
+
+
+#EXTINF:-1 group-title=" Astro Sports" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2024/10/Astro_Premier_League_1_2024.png" tvg-id="AstroPremierLeague.my" ,MY | Astro Premier League 1 FHD
+http://b1g.uk/200/230/709263
+#EXTINF:-1 group-title=" Astro Sports" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2024/10/Astro_Premier_League_1_2024.png" tvg-id="AstroPremierLeague.my" ,MY | Astro Premier League 1 HD
+http://b1g.uk/200/230/709262
+#EXTINF:-1 group-title=" Astro Sports" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2024/10/Astro_Premier_League_2_2024.png" tvg-id="AstroPremierLeague2.my" ,MY | Astro Premier League 2 FHD
+http://b1g.uk/200/230/709261
+#EXTINF:-1 group-title=" Astro Sports" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2024/10/Astro_Premier_League_2_2024.png" tvg-id="AstroPremierLeague2.my" ,MY | Astro Premier League 2 HD
+http://b1g.uk/200/230/709260
+#EXTINF:-1 group-title=" Astro Sports" tvg-logo="https://ptv.ac:443/images/uO9NC4b5HzlRujAnoUeGVXETcUB9ktYuZL2i-OBdWzQriK00jWlVjHbmPfB67yhbbUgU6bJCbi4WFWK3mftkUw.png" tvg-id="AstroPremierLeague3.my" ,MY | Astro Premier League 3 FHD
+http://b1g.uk/200/230/848961
+#EXTINF:-1 group-title=" Astro Sports" tvg-logo="https://ptv.ac:443/images/uO9NC4b5HzlRujAnoUeGVXETcUB9ktYuZL2i-OBdWzQriK00jWlVjHbmPfB67yhbbUgU6bJCbi4WFWK3mftkUw.png" tvg-id="AstroPremierLeague3.my" ,MY | Astro Premier League 3 HD
+http://b1g.uk/200/230/945703
+#EXTINF:-1 group-title=" Astro Sports" tvg-logo="https://ptv.ac:443/images/uO9NC4b5HzlRujAnoUeGVXETcUB9ktYuZL2i-OBdWzQriK00jWlVjHbmPfB67yhbbUgU6bJCbi4WFWK3mftkUw.png" tvg-id="AstroPremierLeague4.my" ,MY | Astro Premier League 4 FHD
+http://b1g.uk/200/230/848960
+#EXTINF:-1 group-title=" Astro Sports" tvg-logo="https://ptv.ac:443/images/uO9NC4b5HzlRujAnoUeGVXETcUB9ktYuZL2i-OBdWzQriK00jWlVjHbmPfB67yhbbUgU6bJCbi4WFWK3mftkUw.png" tvg-id="AstroPremierLeague4.my" ,MY | Astro Premier League 4 HD
+http://b1g.uk/200/230/945704
+#EXTINF:-1 group-title=" Astro Sports" tvg-logo="https://ptv.ac:443/images/uO9NC4b5HzlRujAnoUeGVXETcUB9ktYuZL2i-OBdWzQriK00jWlVjHbmPfB67yhbtVYq7k79Nsk1xQhSW8nlpg.png" tvg-id="AstroPremierLeague5.my" ,MY | Astro Premier League 5 FHD
+http://b1g.uk/200/230/848959
+#EXTINF:-1 group-title=" Astro Sports" tvg-logo="https://ptv.ac:443/images/uO9NC4b5HzlRujAnoUeGVXETcUB9ktYuZL2i-OBdWzQriK00jWlVjHbmPfB67yhbtVYq7k79Nsk1xQhSW8nlpg.png" tvg-id="AstroPremierLeague5.my" ,MY | Astro Premier League 5 HD
+http://b1g.uk/200/230/945705
+#EXTINF:-1 group-title=" Astro Sports" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2024/10/Astro_Grandstand_2024.png" tvg-id="AstroGrandstand.my" ,MY | Astro Grandstand FHD
+http://b1g.uk/200/230/709259
+#EXTINF:-1 group-title=" Astro Sports" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2024/10/Astro_Grandstand_2024.png" tvg-id="AstroGrandstand.my" ,MY | Astro Grandstand HD
+http://b1g.uk/200/230/709258
+#EXTINF:-1 group-title=" Astro Sports" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2024/10/Astro-Football.png" tvg-id="AstroFootball.my" ,MY | Astro Football FHD
+http://b1g.uk/200/230/709257
+#EXTINF:-1 group-title=" Astro Sports" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2024/10/Astro-Football.png" tvg-id="AstroFootball.my" ,MY | Astro Football HD
+http://b1g.uk/200/230/709256
+#EXTINF:-1 group-title=" Astro Sports" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2024/10/Astro-Cricket.png" tvg-id="AstroCricket.my" ,MY | Astro Cricket FHD
+http://b1g.uk/200/230/709264
+#EXTINF:-1 group-title=" Astro Sports" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2024/10/Astro_Badminton.png" tvg-id="AstroBadminton.my" ,MY | Astro Badminton
+http://b1g.uk/200/230/848711
+#EXTINF:-1 group-title=" Astro Sports" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2024/10/Astro_Badminton_2.png" tvg-id="AstroBadminton2.my" ,MY | Astro Badminton 2
+http://b1g.uk/200/230/848710
+#EXTINF:-1 group-title=" Astro Sports" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2024/09/W-Sport.png" tvg-id="W-Sport.my" ,MY | W-Sport FHD
+http://b1g.uk/200/230/709252
+#EXTINF:-1 group-title=" Astro Sports" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2024/09/MY-Bein-Sports.png" tvg-id="beINSports.my" ,MY | beIN Sports 1 FHD
+http://b1g.uk/200/230/837115
+#EXTINF:-1 group-title=" Astro Sports" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2024/09/MY-Bein-Sports-2.png" tvg-id="beINSports2.my" ,MY | beIN Sports 2 FHD
+http://b1g.uk/200/230/837114
+#EXTINF:-1 group-title=" Astro Sports" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2024/09/MY-Bein-Sports-3.png" tvg-id="bEINSPORTS3.my" ,MY | beIN Sports 3 FHD
+http://b1g.uk/200/230/837113
+#EXTINF:-1 group-title=" Astro Sports" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/09/WWE-Network.png" tvg-id="WWENetwork.my" ,MY | WWE Network HD
+http://b1g.uk/200/230/709248
+#EXTINF:-1 group-title=" Astro Sports" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/05/AstroGolf.png" tvg-id="GolfChannel.my" ,MY | SkyNet Golf FHD
+http://b1g.uk/200/230/709249
+#EXTINF:-1 group-title=" Astro Sports" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2023/09/GINX.png" tvg-id="NSW-SydneyFoxSportsUltra.au" ,MY | GNIX Sports HD
+http://b1g.uk/200/230/709255
+#EXTINF:-1 group-title=" Astro Sports" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2024/10/Astro_Arena_1_2024.png" tvg-id="AstroArena.my" ,MY | Astro Arena FHD
+http://b1g.uk/200/230/709254
+#EXTINF:-1 group-title=" Astro Sports" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2024/10/Astro_Arena_2_2024.png" tvg-id="AstroArena2.my" ,MY | Astro Arena 2 FHD
+http://b1g.uk/200/230/709266
+#EXTINF:-1 group-title=" Astro Sports" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2023/09/MUTV.png" tvg-id="MUTV.hk" ,MY | MUTV HD
+http://b1g.uk/200/230/709253
+#EXTINF:-1 group-title=" Astro Sports" tvg-logo="https://s9.gifyu.com/images/SUl6z.png" tvg-id="SPOTV.sg" ,MY | SPOTV FHD
+http://b1g.uk/200/230/709251
+#EXTINF:-1 group-title=" Astro Sports" tvg-logo="https://s9.gifyu.com/images/SUl6w.webp" tvg-id="SPOTV2.my" ,MY | SPOTV 2 FHD
+http://b1g.uk/200/230/709250
 
 
 
